@@ -9,6 +9,7 @@ We have done many projects in [Data Science Bootcamp](https://datarockie.com/dat
   - [x] [Dynamic Query](Spreadsheets/Spreadsheets_Dynamic_Query.png) -  Queries that return results dynamically  
   - [x] [Converting Date](Spreadsheets/Spreadsheets_Convert_Date.png) - Converting TH date to EN date
   - [x] [ID Card Parser](Spreadsheets/Spreadsheets_ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
+  - [x] [Google Translate](Spreadsheets/Spreadsheets_google_translate.png) - using google translate in google sheets
 ## SQL Database
   - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 ## R Programming
@@ -20,7 +21,7 @@ We have done many projects in [Data Science Bootcamp](https://datarockie.com/dat
 ## Data Visualization
   - [x] [small_chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
 ## Statistics
-  - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
+  - [x] [Titanic_Survival_Prediction](R/Titanic_Logistic_Regression.r) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
   - [ ] [linear regression in Excel/Google Sheets]
   - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel
 ## Intro to Classical Machine Learning
