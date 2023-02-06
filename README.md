@@ -11,7 +11,7 @@ We have done many projects in [Data Science Bootcamp](https://datarockie.com/dat
   - [x] [ID Card Parser](Spreadsheets/Spreadsheets_ID_Card_Parser.png) - Using regular expression to extract and parse ID card information
   - [x] [Google Translate](Spreadsheets/Spreadsheets_google_translate.png) - using google translate in google sheets
 ## SQL Database
-  - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql)/[Replit](https://replit.com/@TEAMMYKUNG1/SQLRestaurant?v=1) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
+  - [x] [restaurant_owner.sql](SQL/restaurant_owner.sql) / [Replit](https://replit.com/@TEAMMYKUNG1/SQLRestaurant?v=1) - A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
 ## R Programming
   - [x] [pizza_shop_chatbot.r](R/pizza_shop_chatbot.r) - A rule-based chatbot to order pizza with some dialogue
   - [x] [Pao_Ying_Chub.r](R/Pao_Ying_Chub.r) - An interactive rock-paper-scissors game with a bot
