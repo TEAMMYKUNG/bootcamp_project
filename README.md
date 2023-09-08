@@ -14,9 +14,6 @@ We have done many projects in [Data Science Bootcamp](https://datarockie.com/dat
 ## R Programming
   - [x] [NYCFlights2013.ipynb](R/NYCFlights2013.ipynb) 
   - [x] [Titanic_Logistic_Regression.ipynb](R/Titanic_Logistic_Regression.ipynb) - ML model
-## Data Transformation
-  - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
-  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in `R` to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png)
 ## Intro to Python Programming
   - [x] [Pandas_Project.ipynb](Python/Pandas_Project.ipynb)
   - [x] [ATM_OOP.ipynb](Python/ATM_OOP.ipynb) - An ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
